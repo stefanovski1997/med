@@ -1,0 +1,1143 @@
+
+.container_main{
+    position: relative;
+    max-width: 1440px !important;
+    background-color:  #f1f1f1;
+
+}
+
+.blagoSiva{
+    background: #ececec;
+}
+
+.tamnijaSiva{
+    background: #e6e6e6;
+}
+
+.containerForme{
+    background: #e6e6e6;
+}
+
+.logoLi{
+    padding-right: 8%;
+    padding-top: 0.5%;
+}
+
+.odvajanjeDoleGoreSlikaAlek{
+    margin-bottom: 30px;
+    margin-top: 60px;
+}
+
+.carousel{
+    margin-top: 10px;
+    background-color: black;
+}
+
+.textIntroduction{
+    text-align: left;
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 37px;
+
+    color: #000000;
+}
+
+.slikaAlek{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.slikaLogo{
+    width: 60px;
+    height: 60px;
+}
+
+.navbar-brand {
+    margin-right: 3px;
+}
+
+.textIspodSlike{
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 44px;
+    text-align: center;
+    color: #000000;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.textNaslov{
+    font-size: 26px;
+    margin-bottom: 20px;
+
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 37px;
+
+    color: #000000;
+    margin: 60px 0px 35px 15px;
+}
+
+
+.textOpis{
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 37px;
+
+    color: #000000;
+
+    margin-bottom: 30px;
+}
+
+.socialColzaMeni{
+    background: #FFFFFF;
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,.1), 0 4px 5px 0 rgba(0,0,0,.05), 0 1px 10px 0 rgba(0,0,0,.1);
+    background: #0d1217;
+}
+
+.socialColzaMeni li a{
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+    margin-right: 30px;
+    margin-top: 5px;
+    color: #fbbc01;
+}
+
+.socialIcon{
+    width: 53px;
+    height: 53px;
+}
+
+.socialIcon2{
+    width: 77px;
+    height: 77px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+.naslovSkills{
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 37px;
+    
+    color: #000000;
+}
+
+.odvajanjeDoleGoreSkills{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.nabrajanja{
+    padding-top: 31px;
+    cursor: default;
+}
+
+.punoDivova{
+    width: fit-content;
+    border: 2px solid #000000;
+    margin-right: 9px;
+    margin-bottom: 9px;
+
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 41px;
+    
+    color: #303030;
+
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    
+    float: left;
+}
+
+.textSoftwareProficiency{
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 37px;
+    
+    color: #000000;
+
+    margin-bottom: 50px;
+}
+
+.proficiencyItem{
+    margin-bottom: 80px;
+}
+
+.textItem{
+    width: 168px;
+    height: 53px;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 41px;
+    color: #000000;
+    float: left;
+    padding-top: 15px;
+    padding-left: 19px;
+}
+
+.textAndItem{
+    width: 289px;
+    float: left;
+}
+
+.textItem{
+    width: fit-content;
+
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 28px;
+    
+    color: #000000;
+
+    padding-left: 20px;
+    padding-top: 19px;
+}
+
+.formcontrol1{
+    max-height: 25em;
+    min-height: 10em;
+
+    margin-bottom: 26px;
+
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+
+    color: rgba(53, 53, 53, 0.5);
+}
+
+.formcontrol2{
+    height: 3em;
+    margin-bottom: 26px;
+
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+
+    color: rgba(53, 53, 53, 0.5);
+}
+
+.formcontrol3{
+    height: 3em;
+
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+
+    color: rgba(53, 53, 53, 0.5);
+}
+
+.dugme{
+    margin-top: 25px;
+    background-color: #fbbc01;
+    margin-bottom: 30px;
+    color: #c06416;
+    border: 2px solid #c06416;
+}
+
+.dugmeGalerija{
+    margin-top: 25px;
+    background-color: #fbbc01;
+    margin-bottom: 30px;
+    color: #c06416;
+    border: 2px solid #c06416;
+    width: 244px;
+    height: 53px;
+}
+
+.dugmiciZaGaleriju{
+    margin-top: 25px;
+    background-color: #fbbc01;
+    margin-bottom: 30px;
+    color: #c06416;
+    border: 2px solid #c06416;
+    margin-right: 20px;
+}
+
+.sveSlike{
+    margin-top: 25px;
+    background-color: #c06416;
+    margin-bottom: 30px;
+    color: #fbbc01;
+    border: 2px solid #fbbc01;
+    margin-right: 20px;
+}
+
+.kosnice{
+    margin-top: 25px;
+    background-color: #c06416;
+    margin-bottom: 30px;
+    color: #fbbc01;
+    border: 2px solid #fbbc01;
+    margin-right: 20px;
+}
+
+.mesta{
+    margin-top: 25px;
+    background-color: #c06416;
+    margin-bottom: 30px;
+    color: #fbbc01;
+    border: 2px solid #fbbc01;
+    margin-right: 20px;
+}
+
+.zanimljivosti{
+    margin-top: 25px;
+    background-color: #c06416;
+    margin-bottom: 30px;
+    color: #fbbc01;
+    border: 2px solid #fbbc01;
+    margin-right: 20px;
+}
+
+.textDugme{
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.textGalerija{
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.textContact{
+    font-size: 26px;
+    margin-bottom: 20px;
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 37px;
+    color: #000000;
+    margin: 60px 0px 35px 0px;
+}
+
+.gallerySlika{
+    height: auto;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.textHover {
+    position: absolute;
+    width: fit-content;
+    top: 40%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 55px;
+
+    color: #FFFFFF;
+}
+
+.textHover2 {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 41px;
+    
+    color: #FFFFFF;
+}
+
+.overlay {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background: rgba(0, 0, 0, 0.7);
+    box-sizing: border-box;
+  }
+
+#gallery1{
+    background-image: url("./images/slike_sajt/Characters/03.jpg");
+}
+  
+#gallery2{
+    background-image: url("./images/slike_sajt/Illustrations/05.jpg");
+}
+
+#gallery3{
+    background-image: url("./images/slike_sajt/Package/09.jpg");
+}
+
+#gallery4{
+    background-image: url("./images/slike_sajt/Photography Portraits/03_mealek_portrait.jpg");
+}
+
+#gallery5{
+    background-image: url("./images/slike_sajt/Photography Street/06_mealek_street.jpg");
+}
+
+#gallery6{
+    background-image: url("./images/slike_sajt/Traditional Drawings/02_mealek_tradi2.jpg");
+}
+
+#gallerySlikaCol1{
+    padding-left: 0px;
+    margin-bottom: 44px;
+}
+
+.galleryHeaderImage{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,.1), 0 4px 5px 0 rgba(0,0,0,.05), 0 1px 10px 0 rgba(0,0,0,.1);
+}
+
+.gallerySlikaCol:hover{
+    transform: scale(1.01);
+}
+
+.gallerySlikaCol{
+    height: 300px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.gallerySlikaCol:hover .overlay {
+    opacity: 0.8;
+    cursor: pointer;
+  }
+
+.odvajanjeDoleGoreComissions{
+    margin-bottom: 80px;
+    margin-top: 80px;
+  }
+
+.odvajanjeDoleGoreFormalEducation{
+    padding-top: 80px;
+    border-top: 2px solid #BDBDBD;
+    border-bottom: 2px solid #BDBDBD;
+    padding-bottom: 50px;
+  }
+
+.spidermanRow{
+    padding-bottom: 35px;
+    background-color: #ececec;
+}
+
+.mail{
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 28px;
+    
+    color: #000000;
+
+    margin-left: 45px;
+}
+
+.listaZaKontakt .contactSpam{
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+    list-style-type: none;
+    margin-bottom: 40px;
+}
+
+.listaZaKontakt li {
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+
+    margin-bottom: 15px;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: 0px; 
+}
+
+.listaZaKontakt{
+    margin-top: 35px;
+    list-style-type: none;
+}
+
+.fa{
+    margin-top: 11px;
+}
+
+.fa-home:before {
+    font-size: 35px;
+    color: #fbbc01;
+}
+
+.material-icons {
+    color: #fbbc01;
+    font-size: 35px;
+    margin-top: 13px;
+}
+
+body{
+    background: #f1f1f1;
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 37px;
+    color: #000000;
+    cursor: default;
+}
+
+.nav-item .active{
+    color: #c06416
+}
+
+.Omeni{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: "Nunito Sans", Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.65;
+}
+
+.Omeni2 {
+    font-size: 16px;
+    line-height: 1.65;
+    margin-bottom: 15px;
+}
+
+.lg-sub-html p {
+    font-size: 12px;
+    margin: 5px 0 0;
+    line-height: 20px;
+}
+
+.dribblePic{
+    margin-right: 25px;
+}
+
+.patreonPic{
+    margin-left: 25px;
+}
+
+.driblePic2{
+    margin-right: 25px;
+}
+
+.behancePic{
+    margin-left: 25px;
+}
+
+.youPic{
+    margin-left: 25px;
+}
+
+.patreonPic2{
+    margin-right: 25px;
+}
+
+.socialCol{
+    flex-direction: row;
+    -webkit-flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    background: #ececec;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,.1), 0 4px 5px 0 rgba(0,0,0,.05), 0 1px 10px 0 rgba(0,0,0,.1);
+}
+
+.socialIcons{
+    display: flex;
+    flex-direction: row;
+    -webkit-flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-group > *{
+    background: #FFFFFF;
+    width: 82%;
+    float: right;
+}
+
+@media only screen and (max-width: 768px) {
+    .socialCol{
+        flex-direction: column !important;
+        -webkit-flex-direction: column !important;
+    }
+
+    .logoLi{
+        display: none;
+    }
+
+    .gallerySlikaCol{
+        margin: 0;
+    }
+
+    #gallerySlikaCol1, #gallerySlikaCol3, #gallerySlikaCol5{
+        padding: 0 5px 0 0;
+    }
+
+    #gallerySlikaCol2, #gallerySlikaCol4, #gallerySlikaCol6{
+        padding: 0 0 0 5px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .form-group > *{
+        float: none !important;
+        width: 100%;
+    }
+
+    .odvajanjeDoleGoreSlikaAlek{
+        margin-top: 30px;
+        margin-bottom: 0px;
+    }
+
+    .odvajanjeDoleGoreComissions{
+        margin-bottom: 30px;
+        margin-top: 30px;
+      }
+
+    .slikaAlek {
+        width: 100px;
+        height: 100px;
+    }
+
+    .textIspodSlike {
+        font-size: 25px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .textNaslov {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .socialIcon{
+        width: 40px;
+        height: 40px;
+    }
+
+    .malaSlova{
+        font-size: 17px;
+    }
+
+    .odvajanjeDoleGoreSkills {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .odvajanjeDoleGoreFormalEducation {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .punoDivova{
+        line-height: 22px;
+        font-size: 18px;
+    }
+
+    .naslovSkills{
+        font-size: 26px;
+        line-height: 37px;
+    }
+
+    body {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .textOpis {
+        font-size: 17px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+
+    .carousel {
+        margin-top: 30px;
+    }
+
+    .proficiencyItem {
+        margin-bottom: 20px;
+    }
+
+    .slikaAlek {
+        margin-top: 0px !important;
+    }
+
+    .spidermanRow {
+        padding-bottom: 16px;
+    }
+    
+    .nabrajanja {
+        padding-top: 16px;
+    }
+
+    .textSoftwareProficiency {
+        margin-bottom: 25px;
+        font-size: 24px;
+    }
+
+    .textContact {
+        font-size: 26px;
+        line-height: 37px;
+        margin-top: 20px;
+    }
+
+    .formcontrol1 {
+        margin-top: 20px;
+        min-height: 4em;
+    }
+
+    .listaZaKontakt li {
+        font-size: 18px;
+        line-height: 14px;
+    }
+
+    .dugme {
+        width: 267px;
+        height: 52px;
+    }
+
+    .formcontrol2 {
+        height: 2em;
+    }
+
+    .formcontrol3 {
+        height: 2em;
+    }
+
+    .textDugme {
+        font-size: 19px;
+    }
+
+    .socialIcon2{
+        width: 60px;
+        height: 60px;
+    }
+
+    .seeMoreDiv {
+        margin-top: 0px !important;
+    }
+
+    .carouselImage {
+        margin-top: 0px!important;;
+    }
+
+    .contactInputsColumn > form{
+        width: 65%;
+    }
+
+    .contactDescriptionColumn, .contactInputsColumn{
+        align-items: center;
+        justify-content: center;
+    }
+
+    .gallerySlikaCol{
+        padding: 0 !important;
+        margin-bottom: 20px !important;
+    }
+
+}
+
+.nav-item{
+    position: relative;
+}
+
+.navbar-nav a:hover::after, .navbar-nav a.active::after {
+    width: 100%;
+}
+
+.socialColzaMeni li a:hover {
+    color: #c06416;
+}
+
+#section1{
+    position: relative;
+}
+
+.carouselImage{
+    width: 100%;
+    height: 100%;
+    opacity: 0.38;
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,.1), 0 4px 5px 0 rgba(0,0,0,.05), 0 1px 10px 0 rgba(0,0,0,.1);
+}
+
+.plaviBoxNaSlici{
+    background: rgba(48, 40, 40, 0.555);
+    padding: 32px 10%;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 24px;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    color: #fff;
+    width: 80%;
+    left: 10%;
+    margin-bottom: 70px;
+}
+
+input[type="radio"] {
+    width: 1em;
+    height: 1em;
+    margin-right: 15px;
+}
+
+.seeMoreDiv{
+    margin-top: 40px;
+}
+
+.seeMoreDiv img{
+    margin-bottom: 10px;
+}
+
+.instaPic3{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+.opacityNav{
+    background-color: rgba(255, 255, 255, 0.85);
+    height: 69px;
+}
+.navbar-nav.navbar-center {
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
+
+@media only screen and (max-width: 1060px) {
+    .socialColzaMeni li a {
+        font-size: 26px;
+        margin: 0;
+    }
+    .navbar-nav a:hover::after, .navbar-nav a.active::after {
+        width: 0px;
+    }
+}
+
+#lg-counter{
+    padding-top: 5px !important;
+}
+
+.lg-backdrop{
+    background-color: rgba(0, 0, 0, 0.92) !important;
+}
+
+.lg-outer .lg-thumb-outer{
+    background-color: rgba(13, 10, 10, 0.9) !important;
+}
+
+.lg-outer.lg-pull-caption-up.lg-thumb-open .lg-sub-html {
+    bottom: 100px;
+    background: rgba(0, 0, 0, 0.9);
+}
+
+.smanjiSlikuLogoa{
+    width: 50px;
+    height: 50px;
+    margin-top: 12%;
+}
+
+.lg-sub-html p {
+    font-size: 16px;
+    line-height: 19px;
+    width: 35%;
+    margin: auto;
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.lg-sub-html h4 {
+    margin-bottom: 1%;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.animated-icon1{
+    width: 30px;
+    height: 20px;
+    position: relative;
+    margin: 0px;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -webkit-transition: .5s ease-in-out;
+    -moz-transition: .5s ease-in-out;
+    -o-transition: .5s ease-in-out;
+    transition: .5s ease-in-out;
+    cursor: pointer;
+}
+    
+.animated-icon1 span{
+    display: block;
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    border-radius: 9px;
+    opacity: 1;
+    left: 0;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -webkit-transition: .25s ease-in-out;
+    -moz-transition: .25s ease-in-out;
+    -o-transition: .25s ease-in-out;
+    transition: .25s ease-in-out;
+}
+    
+.animated-icon1 span {
+    background: #c06416;
+}
+
+.animated-icon1 span:nth-child(1) {
+    top: 0px;
+}
+    
+.animated-icon1 span:nth-child(2) {
+    top: 10px;
+}
+    
+.animated-icon1 span:nth-child(3) {
+    top: 20px;
+}
+    
+.animated-icon1.open span:nth-child(1) {
+    top: 11px;
+    -webkit-transform: rotate(135deg);
+    -moz-transform: rotate(135deg);
+    -o-transform: rotate(135deg);
+    transform: rotate(135deg);
+}
+    
+.animated-icon1.open span:nth-child(2) {
+    opacity: 0;
+    left: -60px;
+}
+    
+.animated-icon1.open span:nth-child(3) {
+    top: 11px;
+    -webkit-transform: rotate(-135deg);
+    -moz-transform: rotate(-135deg);
+    -o-transform: rotate(-135deg);
+    transform: rotate(-135deg);
+}
+
+*:focus {
+    outline: 0 !important;
+}
+
+.containerNavBar{
+    margin: 0 !important;
+    padding: 0 1
+}
+
+@media only screen and (max-width: 1417px) {
+    .textOpis{
+        font-size: 20px;
+        line-height: 32px;
+        margin-bottom: 0px;
+    }
+
+    .textNaslov{
+        font-size: 24px;
+    }
+
+    .textIspodSlike {
+        font-size: 26px;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+
+    .slikaAlek {
+        width: 150px;
+        height: 150px;
+    }
+}
+
+@media only screen and (max-width: 1294px) {
+    .textOpis{
+        font-size: 19px;
+        line-height: 24px;
+        margin-bottom: 0px;
+    }
+}
+
+.removeActive{
+    color: #fbbc01 !important;   
+}
+
+.removeActive::after{
+    display: none !important;
+}
+
+#banner h1 {
+    font-size: 3.5em;
+    padding: 16px;
+    color: #FFF;
+}
+
+#banner p {
+    font-size: 1.5em;
+    margin-bottom: 1.75em;
+    color: #FFF;
+    line-height: 30px;
+}
+
+#banner a {
+    color: #FFF;
+    text-decoration: none;
+    padding: 0 2em;
+    border-radius: 4px;
+    border: 0;
+    display: inline-block;
+    line-height: 2.95em;
+    padding: 0 1.5em;
+    text-align: center;
+    box-shadow: 0 0 0 2px rgba(144, 144, 144, 0.25);
+    background: rgba(48, 40, 40, 0.222);
+}
+
+#banner a:hover{
+    background: rgba(144, 144, 144, 0.25);
+}
+
+
+#banner{
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 24px;
+    position: absolute;
+    top: 0;
+    text-align: center;
+    color: #fff;
+    width: 80%;
+    left: 10%;
+    margin-top: 70px;
+}
+
+.actions{
+    list-style-type: none;
+}
+
+#pozadina1{
+    background-image: url("./images/slike_sajt/SveSlike/01.jpg");
+    background-size: cover;
+}
+
+#pozadina2{
+    background-image: url("./images/slike_sajt/SveSlike/02.jpg");
+    background-size: cover;
+}
+
+#pozadina3{
+    background-image: url("./images/slike_sajt/SveSlike/03.jpg");
+    background-size: cover;
+}
+
+#pozadina4{
+    background-image: url("./images/slike_sajt/SveSlike/04.jpg");
+    background-size: cover;
+}
+
+#pozadina5{
+    background-image: url("./images/slike_sajt/SveSlike/05.jpg");
+    background-size: cover;
+}
+
+#pozadina6{
+    background-image: url("./images/slike_sajt/SveSlike/06.jpg");
+    background-size: cover;
+}
+
+#pozadina7{
+    background-image: url("./images/slike_sajt/SveSlike/07.jpg");
+    background-size: cover;
+}
+
+#pozadina8{
+    background-image: url("./images/slike_sajt/SveSlike/08.jpg");
+    background-size: cover;
+}
+
+#pozadina9{
+    background-image: url("./images/slike_sajt/SveSlike/09.jpg");
+    background-size: cover;
+}
+
+#pozadina10{
+    background-image: url("./images/slike_sajt/SveSlike/10.jpg");
+    background-size: cover;
+}
+
+#pozadina11{
+    background-image: url("./images/slike_sajt/SveSlike/11.jpg");
+    background-size: cover;
+}
+
+#pozadina12{
+    background-image: url("./images/slike_sajt/SveSlike/12.jpg");
+    background-size: cover;
+}
